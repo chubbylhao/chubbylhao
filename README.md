@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning DIP
 - 👯 Welcome to cooperate with me
 - 📫 My blogs: [https://chubbylhao.github.io/](https://chubbylhao.github.io/)
+- 📫 My github pages: [https://github.com/chubbylhao](https://github.com/chubbylhao)
 - 📫 My gitee pages: [https://gitee.com/chubbylhao](https://gitee.com/chubbylhao)
 
 <div align="center">
