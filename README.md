@@ -4,10 +4,9 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/purpose-study%20and%20backup-red" />
-	<img src="https://img.shields.io/badge/institution-HIT--ISE-blue" />
 </p>
 
-- 🔭 I’m currently working at HIT-ISE
+
 - 🌱 I’m currently learning DIP
 - 👯 Welcome to cooperate with me
 - 📫 My blogs: [https://chubbylhao.github.io/](https://chubbylhao.github.io/)
@@ -21,4 +20,3 @@
 <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbylhao&theme=highcontrast&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
-
