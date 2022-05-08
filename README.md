@@ -1,14 +1,7 @@
-<h3 align = "center"> 👋👋👋 Hi, there is chubbylhao, Welcome to my Github! 👋👋👋 </h3>
+<h3 align = "center"> 👋👋👋 Hi, Welcome to my Github! 👋👋👋 </h3>
 
 <h4 align = "center"> " do better every day! " </h4>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/purpose-study%20and%20backup-red" />
-</p>
-
-
-- 🌱 I’m currently learning DIP
-- 👯 Welcome to cooperate with me
 - 📫 My blogs: [https://chubbylhao.github.io/](https://chubbylhao.github.io/)
 - 📫 My github pages: [https://github.com/chubbylhao](https://github.com/chubbylhao)
 - 📫 My gitee pages: [https://gitee.com/chubbylhao](https://gitee.com/chubbylhao)
